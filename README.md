@@ -45,8 +45,8 @@ Before that, I ran **Twenty Four Colors** (now [x24labs](https://github.com/x24l
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=byroblesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byroblesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-nine-wine-44.vercel.app/api?username=byroblesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-nine-wine-44.vercel.app/api/top-langs/?username=byroblesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 ---
